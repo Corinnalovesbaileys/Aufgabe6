@@ -1,4 +1,4 @@
-package sea.corinna;
+package sea.corinna.aufgabe6;
 
 public class Wilder {
     private String firstname;

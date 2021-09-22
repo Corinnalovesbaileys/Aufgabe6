@@ -1,4 +1,4 @@
-package sea.corinna;
+package sea.corinna.aufgabe6;
 
 public class Classroom {
     public static void main(String[] args) {
